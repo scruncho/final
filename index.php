@@ -5,7 +5,7 @@
     
 ?>
 <div>
-<center><img src="image/logo.jpeg" style="width:300px;height:400px;"></center>
+<center><img src="image/logo.jpeg" style="width:300px;height:300px;"></center>
     <h1>Hello, world!</h1>
  </div>
 <?php 
