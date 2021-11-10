@@ -6,7 +6,12 @@
 ?>
 <div>
 <center><img src="image/logo.jpeg" style="width:300px;height:300px;"></center>
-    <h1>Hello, world!</h1>
+<br>
+<br>
+<br>
+<br>
+<br>
+    <?php require_once 'includes/successmsg.php'; ?>
  </div>
 <?php 
     require_once 'includes/footer.php';
