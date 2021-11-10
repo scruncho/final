@@ -1,5 +1,7 @@
  
- 
+  <div id="footer">
+        <?php echo 'Copyright ' . date('y'); ?>
+    </div>
   </div>
  <!-- Optional JavaScript; choose one of the two! -->
 
