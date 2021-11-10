@@ -8,6 +8,7 @@
 <center><img src="image/logo.jpeg" style="width:300px;height:300px;"></center>
 <br>
 <br>
+<center><button type="submit" name="submit" class="btn btn-primary" class="btn-block">Register</button></center>
 <br>
 <br>
 <br>
