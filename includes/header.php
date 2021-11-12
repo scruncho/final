@@ -7,7 +7,7 @@
 
     <!-- body colour -->
 
-      <link rel="stylesheet" href="pagestyles.css">
+      <link rel="stylesheet" href="pagestyles.css"/>
 
 
     <!-- Bootstrap CSS -->
@@ -25,7 +25,7 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-        <a class="nav-link active" aria-current="page" href="#">Home</a>
+        <a class="nav-link active" aria-current="page" href="index.php">Home</a>
         <a class="nav-link active" href="#">Features</a>
         <a class="nav-link active" href="#">Pricing</a>
         <a class="nav-link disabled">Disabled</a>
