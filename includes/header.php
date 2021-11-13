@@ -23,7 +23,14 @@
   <a href="#news">News</a>
   <a href="#contact">Contact</a>
   <div class="topnav-right">
-    <a href="signin.php">Sign In</a>
+  
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+ <span class="navbar-toggler-icon"></span>
+  
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    
+  
+  <a href="signin.php">Sign In</a>
     <a href="#about.php">About</a>
   </div>
 </div>
