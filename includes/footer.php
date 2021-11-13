@@ -1,10 +1,10 @@
 
-<!--  -->
+
+
   <div id="footer">
-  <div id="footer">
-  <link rel="stylesheet" href="pagestyles.css"/>
+  
         <?php echo 'Copyright ' . date('y'); ?>
-        </div>
+        <!-- <link rel="stylesheet" href="pagestyles.css"/> -->
     </div>
   </div>
  <!-- Optional JavaScript; choose one of the two! -->
