@@ -2,9 +2,9 @@
 
 
   <div id="footer">
-  <p>Copyright &copy; <script>document.write(new Date().getFullYear());</script>, Coding Journey</p>
+      <p>Copyright &copy; <script>document.write(new Date().getFullYear());</script>, TOP STAR KITCHEN</p>
 
-       <!-- //<?php //echo 'Copyright ' . date('y'); ?> --> 
+        <?php  ?> 
         <link rel="stylesheet" href="pagestyles.css"/>
     </div>
   </div>
