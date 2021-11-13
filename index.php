@@ -5,7 +5,7 @@
     
 ?>
 <div>
-<link rel="stylesheet" href="pagestyles.css"/>
+<link rel="stylesheet" href="pagestyles.css">
 <center><img src="image/logo.jpeg" style="width:300px;height:300px;"></center>
 <br>
 <br>
