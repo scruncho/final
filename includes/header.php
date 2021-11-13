@@ -16,20 +16,14 @@
     <title>Final - <?php echo $title ?></title>
   </head>
   <body>
-<div class="container">
-  <nav class="navbar navbar-expand-lg navbar-dark bg-success">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">Navbar</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-      <div class="navbar-nav">
-        <a class="nav-link active" aria-current="page" href="index.php">Home</a>
-        <a class="nav-link active" href="#">Features</a>
-        <a class="nav-link active" href="#">Pricing</a>
-        <a class="nav-link disabled">Disabled</a>
-      </div>
-    </div>
+<!-- <div class="container"> -->
+  
+<div class="topnav">
+  <a class="active" href="index.php">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <div class="topnav-right">
+    <a href="signin.php">Sign In</a>
+    <a href="#about.php">About</a>
   </div>
-</nav>
+</div>

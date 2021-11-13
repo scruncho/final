@@ -1,6 +1,4 @@
-body{
-    background-color: plum;
-}
+
 
 * {
     margin: 0;
@@ -9,30 +7,15 @@ body{
   }
   body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #f1f1f1;
+    /* background-color: #f1f1f1; */
     position: relative;
     padding-bottom: 58px;
     min-height: 100vh;
+    display: flex;
+    flex-direction: column;
   }
-  header {
-    text-align: center;
-    background-color: #333;
-    color: #fff;
-    padding: 50px;
-  }
-  header h1 {
-    font-size: 48px;
-    margin-bottom: 30px;
-  }
-  header p {
-    font-size: 22px;
-  }
-  main {
-    width: 90vw;
-    margin: 0 auto;
-    padding: 30px 20px;
-    /* min-height: calc(100vh - 211px - 58px); */
-  }
+ 
+  
   article {
     background-color: #fff;
     padding: 20px;
@@ -49,14 +32,50 @@ body{
     margin-top: 16px;
     line-height: 24px;
   }
-  footer {
+  #footer {
     text-align: center;
-    background-color: #333;
+    background-color: rgb(231, 217, 18);
     color: #fff;
-    padding: 20px;
+    padding: 2px;
     position: absolute;
     bottom: 0;
-    width: 100%;
+    width: 100%; 
+    margin-top: auto;
+    color: slateblue;
     /* position: fixed;
     z-index: 1; */
   }
+
+
+  /* Add a black background color to the top navigation */
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+/* Right-aligned section inside the top navigation */
+.topnav-right {
+  float: right;
+}

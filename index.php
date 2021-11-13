@@ -6,7 +6,7 @@
 ?>
 <div>
 <link rel="stylesheet" href="pagestyles.css">
-<center><img src="image/logo.jpeg" style="width:300px;height:300px;"></center>
+<center><img src="image/logo.jpeg" style="width:150px;height:150px;"></center>
 <br>
 <br>
 <!-- <center><button type="submit" name="submit" class="btn btn-success" class="btn-block">Register</button></center> -->
@@ -14,7 +14,7 @@
 <br>
 <br>
 <br>
-    <?php require_once 'includes/successmsg.php'; ?>
+    <!-- <?php require_once 'includes/successmsg.php'; ?> -->
  </div>
 <?php 
     require_once 'includes/footer.php';
