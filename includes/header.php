@@ -16,7 +16,7 @@
     <title>Final - <?php echo $title ?></title>
   </head>
   <body>
-<!-- <div class="container"> -->
+<div class="container"> 
   
 <div class="topnav">
   <a class="active" href="index.php">Home</a>
@@ -24,8 +24,8 @@
   <a href="#contact">Contact</a>
   <div class="topnav-right">
   
-  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
- <span class="navbar-toggler-icon"></span>
+  <!-- <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation"> -->
+ <!-- <span class="navbar-toggler-icon"></span> -->
   
   <!-- <div class="collapse navbar-collapse" id="navbarNavAltMarkup"> -->
     
