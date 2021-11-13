@@ -2,8 +2,9 @@
 
 
   <div id="footer">
-  
-        <?php echo 'Copyright ' . date('y'); ?>
+  <p>Copyright &copy; <script>document.write(new Date().getFullYear());</script>, Coding Journey</p>
+
+       <!-- //<?php //echo 'Copyright ' . date('y'); ?> --> 
         <link rel="stylesheet" href="pagestyles.css"/>
     </div>
   </div>
