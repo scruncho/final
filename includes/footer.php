@@ -1,13 +1,14 @@
 
-
+<footer>
 
   <div id="footer">
       <p>Copyright &copy; <script>document.write(new Date().getFullYear());</script>, TOP STAR KITCHEN</p>
 
         <?php  ?> 
-        <link rel="stylesheet" href="pagestyles.css"/>
+        <link rel="stylesheet" href="pagestyles.css">
     </div>
   </div>
+  </footer>
  <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
