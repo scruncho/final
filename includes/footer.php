@@ -4,7 +4,7 @@
   <div id="footer">
   
         <?php echo 'Copyright ' . date('y'); ?>
-        <!-- <link rel="stylesheet" href="pagestyles.css"/> -->
+        <link rel="stylesheet" href="pagestyles.css"/>
     </div>
   </div>
  <!-- Optional JavaScript; choose one of the two! -->
