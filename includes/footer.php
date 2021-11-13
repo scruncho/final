@@ -2,6 +2,7 @@
 <!--  -->
   <div id="footer">
   <div id="footer">
+  <link rel="stylesheet" href="pagestyles.css"/>
         <?php echo 'Copyright ' . date('y'); ?>
         </div>
     </div>
