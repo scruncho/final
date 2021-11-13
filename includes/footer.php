@@ -1,4 +1,6 @@
- 
+<div id="container">
+<link rel="stylesheet" href="pagestyles.css"/>
+<!--  -->
   <div id="footer">
         <?php echo 'Copyright ' . date('y'); ?>
     </div>
