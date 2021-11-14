@@ -16,7 +16,7 @@
     <title>Final - <?php echo $title ?></title>
   </head>
   <body>
-<div class="container"> 
+<!-- <div class="container">  -->
   
 <div class="topnav">
   <a class="active" href="index.php">Home</a>

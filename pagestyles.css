@@ -15,31 +15,15 @@
     flex-direction: column;
   }
  
-  
-  article {
-    background-color: #fff;
-    padding: 20px;
-    margin-bottom: 20px;
-    border-radius: 5px;
-  }
-  article:last-child {
-    margin-bottom: 0;
-  }
-  article h3 {
-    margin: 10px 0 25px 0;
-  }
-  article p {
-    margin-top: 16px;
-    line-height: 24px;
-  }
-  #footer {
+
+  footer {
     text-align: center;
     background-color: rgb(231, 217, 18);
     color: #fff;
     padding: 2px;
     position: absolute;
     bottom: 0;
-    /* width: 100%;  */
+    width: 100%;  
     margin-top: auto;
     color: slateblue;
     /* position: fixed;

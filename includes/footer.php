@@ -1,13 +1,11 @@
 
 
-
-  <div id="footer">
-      <p>Copyright &copy; <script>document.write(new Date().getFullYear());</script>, TOP STAR KITCHEN</p>
-
-        <?php  ?> 
-        <!-- <link rel="stylesheet" href="pagestyles.css"> -->
-    </div>
-  </div>
+   <link rel="stylesheet" href="pagestyles.css">  
+  <!-- <div id="footer"> -->
+    <footer> Copyright &copy; <script>document.write(new Date().getFullYear());</script>, Top Star Kitchen</footer>
+    <!-- </div> -->
+  <!-- </div> -->
+  
   
  <!-- Optional JavaScript; choose one of the two! -->
 

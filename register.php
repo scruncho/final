@@ -5,8 +5,18 @@
 ?>
 <link rel="stylesheet" href="pagestyles.css">
 
-
+<div class="container p-5 my-5 border"> 
 <form>
+  <div class="form-group">
+    <label for="exampleInputEmail1">Email address</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+  </div>
+  <div class="form-group">
+    <label for="exampleInputEmail1">Email address</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+  </div>
   <div class="form-group">
     <label for="exampleInputEmail1">Email address</label>
     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
@@ -22,7 +32,7 @@
   </div>
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
-
+</div>
 
 <?php 
     require_once 'includes/footer.php';
