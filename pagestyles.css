@@ -29,7 +29,10 @@
     position: fixed;
     /* z-index: 1;  */
   }
-
+h1 {
+  text-align: center;
+  font-family: cursive;
+}
 
   /* Add a black background color to the top navigation */
 .topnav {
